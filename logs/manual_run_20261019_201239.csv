@@ -1,0 +1,1 @@
+﻿timestamp,step,elapsed_s,own_east_m,own_north_m,own_course_deg,own_speed_kn,course_delta_deg,speed_ratio,min_range_m,metrics_json,positions_json,collision,sda_violations,terminal_reason,active_failure,visible_targets,sensor_json,environment_json,obstacle_contacts,obstacle_clearances_json
